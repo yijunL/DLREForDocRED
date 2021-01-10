@@ -1,2 +1,2 @@
 # DLREForDocRED
-###Bert-based DLRE for DocRED
+### Bert-based DLRE for DocRED
